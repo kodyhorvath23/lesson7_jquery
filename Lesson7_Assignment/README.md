@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 31, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kody Horvath
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project familiarized me with the jQuery framework, DOM, animation, and event handling. Also I was able to find new resources for jQuery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kodyhorvath23.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery is a commonly used library and enable developers to implement common JavaScript tasks with minimal code.
+2. The $ is followed by reference to elements on which statement operates. 
+3. Many jQuery methods serve dual function such as looking up a value and setting that value. 
